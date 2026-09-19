@@ -33,18 +33,21 @@ Exploratory workflows evaluated long-term climate trajectories, seasonality patt
 
 ### 1. Annual Warming Trajectory
 ![Annual Temperature Trends](temperature_by_year.png)
+
 *Figure 1: Mean Annual Temperature Trends in London (1979–2020).*
 
 **Insight:** London's average temperature demonstrates a sustained upward drift, shifting from ~10.0°C in the early 1980s to consistently averaging between 11.5°C and 12.5°C post-2000, punctuated by extreme warm peaks in 2003, 2006, and 2018–2020.
 
 ### 2. Cyclical Monthly Seasonality
 ![Monthly Temperature Trends](temperature_by_month.png)
+
 *Figure 2: Monthly Mean Temperature Distributions across the Annual Cycle.*
 
 **Insight:** Seasonality adheres to a classic temperate curve, reaching winter minimums in January and February (~5.2°C–5.5°C) and peaking during July and August (~18.5°C–18.8°C), confirming calendar month as an essential cyclical predictor.
 
 ### 3. Atmospheric Correlation Structure
 ![Correlation Matrix](correlation_matrix.png)
+
 *Figure 3: Feature Correlation Matrix across Meteorological Predictors.*
 
 **Insight:** Solar irradiance (`global_radiation`) and sunshine duration exhibit strong positive associations with daily temperature, whereas cloud cover and surface pressure act as negative moderators during transitional weather fronts.
