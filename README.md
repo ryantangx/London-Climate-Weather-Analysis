@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking_%26_Registry-0194E2?logo=mlflow&logoColor=white&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-[![View Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter&style=flat-square)](london_weather_mlflow.ipynb)
+[![View Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter&style=flat-square)](london_weather_analysis.ipynb)
 
 ## 📌 Abstract
 Ambient temperature fluctuations directly impact municipal power grids, heating and cooling demands, and regional infrastructure planning. This project develops a daily temperature forecasting framework for London using over 40 years of continuous meteorological records (1979–2020) containing 15,000+ observations.
